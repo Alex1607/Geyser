@@ -3,7 +3,7 @@
 # Edit at https://www.gitignore.io/gitignore?templates=git,java,maven,eclipse,netbeans,jetbrains+all,visualstudiocode
 
 ### Eclipse ### 
-.metadata
+.metadata 
 bin/
 tmp/
 *.tmp
